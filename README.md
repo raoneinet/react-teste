@@ -8,6 +8,10 @@ https://github.com/user-attachments/assets/083f54a0-74f5-491c-b643-e9fd36ffd00e
 
 ## Para iniciar
 
+Instalar dependências:
+
+npm install
+
 Para rodar a aplicação na sua máquina, use os seguintes comandos:
 
 ```bash
