@@ -12,7 +12,7 @@ const Page = ()=>{
 
 
   return (
-    <div className="flex flex-col justify-center items-center bg-gray-200 w-screen h-screen">
+    <div className="flex flex-col text-center justify-center items-center bg-gray-200 w-screen h-screen">
       <h1 className="text-3xl font-bold text-gray-600">Welcome!</h1>
       {showLogin === false  &&
         <p>To login into your account, please use the following Button.</p>
