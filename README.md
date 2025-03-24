@@ -30,6 +30,7 @@ Esta task foi criada usando a Biblioteca do Meta, React.js e estilizada usando T
 
 A página pode ser visualizada online em: https://react-teste-ashy.vercel.app/
 
+
 Funções:
 A intenção éra apenas visual, e por isso não foi feito qualquer validação de formulário (AINDA).
 
