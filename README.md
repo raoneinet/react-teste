@@ -1,8 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Este é um projeto em React.JS
 
-## Getting Started
 
-First, run the development server:
+
+https://github.com/user-attachments/assets/083f54a0-74f5-491c-b643-e9fd36ffd00e
+
+
+
+## Para iniciar
+
+Para rodar a aplicação na sua máquina, use os seguintes comandos:
 
 ```bash
 npm run dev
@@ -14,23 +20,17 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+A página `app/page.tsx` renderiza a aplicação e também pode ser editada. 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Qualquer Componente adicional deve ser inserido no dir. /components.
 
-## Learn More
+Esta task foi criada usando a Biblioteca do Meta, React.js e estilizada usando Tailwind css, e o framework Next.js.
 
-To learn more about Next.js, take a look at the following resources:
+A página pode ser visualizada online em: https://react-teste-ashy.vercel.app/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Funções:
+A intenção éra apenas visual, e por isso não foi feito qualquer validação de formulário (AINDA).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Função principal: botão para mostrar e ocultar área de login de acordo com o State (estado) do componente (se visivel ou oculto).
